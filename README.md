@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Pentamsetty Sai Harshita
+# 👋 Hi There, I'm Pentamsetty Sai Harshita
 
 Artificial Intelligence Engineer with hands-on experience building **production-ready AI systems**,  
 spanning **Generative AI, Machine Learning, and Data Engineering**.
