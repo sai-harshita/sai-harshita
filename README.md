@@ -52,14 +52,6 @@ Time-series forecasting on large-scale US Census datasets, dashboarding, and sta
 
 ---
 
-## 📈 What I Value
-- Research-driven engineering
-- Clean abstractions over hacks
-- Measurable model performance
-- Systems that survive real-world constraints
-
----
-
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/pentamsetty-sai-harshita
 - Email: p.harshita2002@gmail.com
